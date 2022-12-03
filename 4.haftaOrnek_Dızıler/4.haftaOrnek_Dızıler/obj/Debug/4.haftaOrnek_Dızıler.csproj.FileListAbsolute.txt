@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\4.haftaOrnek_Dızıler\4.haftaOrnek_Dızıler\obj\Debug\4.haftaOrnek_Dızıler.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\4.haftaOrnek_Dızıler\4.haftaOrnek_Dızıler\obj\Debug\4.haftaOrnek_Dızıler.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\4.haftaOrnek_Dızıler\4.haftaOrnek_Dızıler\bin\Debug\4.haftaOrnek_Dızıler.exe.config
+C:\Users\seyma\source\repos\4.haftaOrnek_Dızıler\4.haftaOrnek_Dızıler\bin\Debug\4.haftaOrnek_Dızıler.exe
+C:\Users\seyma\source\repos\4.haftaOrnek_Dızıler\4.haftaOrnek_Dızıler\bin\Debug\4.haftaOrnek_Dızıler.pdb
+C:\Users\seyma\source\repos\4.haftaOrnek_Dızıler\4.haftaOrnek_Dızıler\obj\Debug\4.haftaOrnek_Dızıler.exe
+C:\Users\seyma\source\repos\4.haftaOrnek_Dızıler\4.haftaOrnek_Dızıler\obj\Debug\4.haftaOrnek_Dızıler.pdb

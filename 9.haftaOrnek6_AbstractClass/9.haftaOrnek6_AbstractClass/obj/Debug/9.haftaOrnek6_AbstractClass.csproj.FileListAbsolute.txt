@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\9.haftaOrnek6_AbstractClass\9.haftaOrnek6_AbstractClass\bin\Debug\9.haftaOrnek6_AbstractClass.exe.config
+C:\Users\seyma\source\repos\9.haftaOrnek6_AbstractClass\9.haftaOrnek6_AbstractClass\bin\Debug\9.haftaOrnek6_AbstractClass.exe
+C:\Users\seyma\source\repos\9.haftaOrnek6_AbstractClass\9.haftaOrnek6_AbstractClass\bin\Debug\9.haftaOrnek6_AbstractClass.pdb
+C:\Users\seyma\source\repos\9.haftaOrnek6_AbstractClass\9.haftaOrnek6_AbstractClass\obj\Debug\9.haftaOrnek6_AbstractClass.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\9.haftaOrnek6_AbstractClass\9.haftaOrnek6_AbstractClass\obj\Debug\9.haftaOrnek6_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\9.haftaOrnek6_AbstractClass\9.haftaOrnek6_AbstractClass\obj\Debug\9.haftaOrnek6_AbstractClass.exe
+C:\Users\seyma\source\repos\9.haftaOrnek6_AbstractClass\9.haftaOrnek6_AbstractClass\obj\Debug\9.haftaOrnek6_AbstractClass.pdb

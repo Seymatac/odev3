@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\5.haftaOrnekUygulamalar12\5.haftaOrnekUygulamalar12\bin\Debug\5.haftaOrnekUygulamalar12.exe.config
+C:\Users\seyma\source\repos\5.haftaOrnekUygulamalar12\5.haftaOrnekUygulamalar12\bin\Debug\5.haftaOrnekUygulamalar12.exe
+C:\Users\seyma\source\repos\5.haftaOrnekUygulamalar12\5.haftaOrnekUygulamalar12\bin\Debug\5.haftaOrnekUygulamalar12.pdb
+C:\Users\seyma\source\repos\5.haftaOrnekUygulamalar12\5.haftaOrnekUygulamalar12\obj\Debug\5.haftaOrnekUygulamalar12.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\5.haftaOrnekUygulamalar12\5.haftaOrnekUygulamalar12\obj\Debug\5.haftaOrnekUygulamalar12.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\5.haftaOrnekUygulamalar12\5.haftaOrnekUygulamalar12\obj\Debug\5.haftaOrnekUygulamalar12.exe
+C:\Users\seyma\source\repos\5.haftaOrnekUygulamalar12\5.haftaOrnekUygulamalar12\obj\Debug\5.haftaOrnekUygulamalar12.pdb

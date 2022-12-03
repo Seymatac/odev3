@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\6.haftaOrnek3_Structs\6.haftaOrnek3_Structs\bin\Debug\6.haftaOrnek3_Structs.exe.config
+C:\Users\seyma\source\repos\6.haftaOrnek3_Structs\6.haftaOrnek3_Structs\bin\Debug\6.haftaOrnek3_Structs.exe
+C:\Users\seyma\source\repos\6.haftaOrnek3_Structs\6.haftaOrnek3_Structs\bin\Debug\6.haftaOrnek3_Structs.pdb
+C:\Users\seyma\source\repos\6.haftaOrnek3_Structs\6.haftaOrnek3_Structs\obj\Debug\6.haftaOrnek3_Structs.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\6.haftaOrnek3_Structs\6.haftaOrnek3_Structs\obj\Debug\6.haftaOrnek3_Structs.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\6.haftaOrnek3_Structs\6.haftaOrnek3_Structs\obj\Debug\6.haftaOrnek3_Structs.exe
+C:\Users\seyma\source\repos\6.haftaOrnek3_Structs\6.haftaOrnek3_Structs\obj\Debug\6.haftaOrnek3_Structs.pdb

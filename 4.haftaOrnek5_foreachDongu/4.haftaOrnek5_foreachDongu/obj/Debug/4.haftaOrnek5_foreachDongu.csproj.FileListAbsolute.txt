@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\4.haftaOrnek5_foreachDongu\4.haftaOrnek5_foreachDongu\bin\Debug\4.haftaOrnek5_foreachDongu.exe.config
+C:\Users\seyma\source\repos\4.haftaOrnek5_foreachDongu\4.haftaOrnek5_foreachDongu\bin\Debug\4.haftaOrnek5_foreachDongu.exe
+C:\Users\seyma\source\repos\4.haftaOrnek5_foreachDongu\4.haftaOrnek5_foreachDongu\bin\Debug\4.haftaOrnek5_foreachDongu.pdb
+C:\Users\seyma\source\repos\4.haftaOrnek5_foreachDongu\4.haftaOrnek5_foreachDongu\obj\Debug\4.haftaOrnek5_foreachDongu.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\4.haftaOrnek5_foreachDongu\4.haftaOrnek5_foreachDongu\obj\Debug\4.haftaOrnek5_foreachDongu.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\4.haftaOrnek5_foreachDongu\4.haftaOrnek5_foreachDongu\obj\Debug\4.haftaOrnek5_foreachDongu.exe
+C:\Users\seyma\source\repos\4.haftaOrnek5_foreachDongu\4.haftaOrnek5_foreachDongu\obj\Debug\4.haftaOrnek5_foreachDongu.pdb

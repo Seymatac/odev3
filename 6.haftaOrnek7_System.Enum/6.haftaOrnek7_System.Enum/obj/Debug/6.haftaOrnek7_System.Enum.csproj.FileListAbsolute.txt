@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\6.haftaOrnek7_System.Enum\6.haftaOrnek7_System.Enum\bin\Debug\6.haftaOrnek7_System.Enum.exe.config
+C:\Users\seyma\source\repos\6.haftaOrnek7_System.Enum\6.haftaOrnek7_System.Enum\bin\Debug\6.haftaOrnek7_System.Enum.exe
+C:\Users\seyma\source\repos\6.haftaOrnek7_System.Enum\6.haftaOrnek7_System.Enum\bin\Debug\6.haftaOrnek7_System.Enum.pdb
+C:\Users\seyma\source\repos\6.haftaOrnek7_System.Enum\6.haftaOrnek7_System.Enum\obj\Debug\6.haftaOrnek7_System.Enum.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\6.haftaOrnek7_System.Enum\6.haftaOrnek7_System.Enum\obj\Debug\6.haftaOrnek7_System.Enum.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\6.haftaOrnek7_System.Enum\6.haftaOrnek7_System.Enum\obj\Debug\6.haftaOrnek7_System.Enum.exe
+C:\Users\seyma\source\repos\6.haftaOrnek7_System.Enum\6.haftaOrnek7_System.Enum\obj\Debug\6.haftaOrnek7_System.Enum.pdb

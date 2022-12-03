@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\8.haftaOrnek1_System.Buffer\8.haftaOrnek1_System.Buffer\bin\Debug\8.haftaOrnek1_System.Buffer.exe.config
+C:\Users\seyma\source\repos\8.haftaOrnek1_System.Buffer\8.haftaOrnek1_System.Buffer\bin\Debug\8.haftaOrnek1_System.Buffer.exe
+C:\Users\seyma\source\repos\8.haftaOrnek1_System.Buffer\8.haftaOrnek1_System.Buffer\bin\Debug\8.haftaOrnek1_System.Buffer.pdb
+C:\Users\seyma\source\repos\8.haftaOrnek1_System.Buffer\8.haftaOrnek1_System.Buffer\obj\Debug\8.haftaOrnek1_System.Buffer.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\8.haftaOrnek1_System.Buffer\8.haftaOrnek1_System.Buffer\obj\Debug\8.haftaOrnek1_System.Buffer.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\8.haftaOrnek1_System.Buffer\8.haftaOrnek1_System.Buffer\obj\Debug\8.haftaOrnek1_System.Buffer.exe
+C:\Users\seyma\source\repos\8.haftaOrnek1_System.Buffer\8.haftaOrnek1_System.Buffer\obj\Debug\8.haftaOrnek1_System.Buffer.pdb

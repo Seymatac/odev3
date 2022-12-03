@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\4.haftaOrnek2_MatrisDızıler\4.haftaOrnek2_MatrisDızıler\bin\Debug\4.haftaOrnek2_MatrisDızıler.exe.config
+C:\Users\seyma\source\repos\4.haftaOrnek2_MatrisDızıler\4.haftaOrnek2_MatrisDızıler\bin\Debug\4.haftaOrnek2_MatrisDızıler.exe
+C:\Users\seyma\source\repos\4.haftaOrnek2_MatrisDızıler\4.haftaOrnek2_MatrisDızıler\bin\Debug\4.haftaOrnek2_MatrisDızıler.pdb
+C:\Users\seyma\source\repos\4.haftaOrnek2_MatrisDızıler\4.haftaOrnek2_MatrisDızıler\obj\Debug\4.haftaOrnek2_MatrisDızıler.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\4.haftaOrnek2_MatrisDızıler\4.haftaOrnek2_MatrisDızıler\obj\Debug\4.haftaOrnek2_MatrisDızıler.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\4.haftaOrnek2_MatrisDızıler\4.haftaOrnek2_MatrisDızıler\obj\Debug\4.haftaOrnek2_MatrisDızıler.exe
+C:\Users\seyma\source\repos\4.haftaOrnek2_MatrisDızıler\4.haftaOrnek2_MatrisDızıler\obj\Debug\4.haftaOrnek2_MatrisDızıler.pdb

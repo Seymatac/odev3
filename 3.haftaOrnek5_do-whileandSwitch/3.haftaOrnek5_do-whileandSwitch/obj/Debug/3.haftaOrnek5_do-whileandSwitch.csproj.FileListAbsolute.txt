@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\3.haftaOrnek5_do-whileandSwitch\3.haftaOrnek5_do-whileandSwitch\bin\Debug\3.haftaOrnek5_do-whileandSwitch.exe.config
+C:\Users\seyma\source\repos\3.haftaOrnek5_do-whileandSwitch\3.haftaOrnek5_do-whileandSwitch\bin\Debug\3.haftaOrnek5_do-whileandSwitch.exe
+C:\Users\seyma\source\repos\3.haftaOrnek5_do-whileandSwitch\3.haftaOrnek5_do-whileandSwitch\bin\Debug\3.haftaOrnek5_do-whileandSwitch.pdb
+C:\Users\seyma\source\repos\3.haftaOrnek5_do-whileandSwitch\3.haftaOrnek5_do-whileandSwitch\obj\Debug\3.haftaOrnek5_do-whileandSwitch.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\3.haftaOrnek5_do-whileandSwitch\3.haftaOrnek5_do-whileandSwitch\obj\Debug\3.haftaOrnek5_do-whileandSwitch.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\3.haftaOrnek5_do-whileandSwitch\3.haftaOrnek5_do-whileandSwitch\obj\Debug\3.haftaOrnek5_do-whileandSwitch.exe
+C:\Users\seyma\source\repos\3.haftaOrnek5_do-whileandSwitch\3.haftaOrnek5_do-whileandSwitch\obj\Debug\3.haftaOrnek5_do-whileandSwitch.pdb

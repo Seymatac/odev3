@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\3.haftaOrnek2_Operator\3.haftaOrnek2_Operator\bin\Debug\3.haftaOrnek2_Operator.exe.config
+C:\Users\seyma\source\repos\3.haftaOrnek2_Operator\3.haftaOrnek2_Operator\bin\Debug\3.haftaOrnek2_Operator.exe
+C:\Users\seyma\source\repos\3.haftaOrnek2_Operator\3.haftaOrnek2_Operator\bin\Debug\3.haftaOrnek2_Operator.pdb
+C:\Users\seyma\source\repos\3.haftaOrnek2_Operator\3.haftaOrnek2_Operator\obj\Debug\3.haftaOrnek2_Operator.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\3.haftaOrnek2_Operator\3.haftaOrnek2_Operator\obj\Debug\3.haftaOrnek2_Operator.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\3.haftaOrnek2_Operator\3.haftaOrnek2_Operator\obj\Debug\3.haftaOrnek2_Operator.exe
+C:\Users\seyma\source\repos\3.haftaOrnek2_Operator\3.haftaOrnek2_Operator\obj\Debug\3.haftaOrnek2_Operator.pdb

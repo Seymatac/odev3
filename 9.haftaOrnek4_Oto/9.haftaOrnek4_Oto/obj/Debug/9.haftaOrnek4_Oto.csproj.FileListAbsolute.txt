@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\9.haftaOrnek4_Oto\9.haftaOrnek4_Oto\bin\Debug\9.haftaOrnek4_Oto.exe.config
+C:\Users\seyma\source\repos\9.haftaOrnek4_Oto\9.haftaOrnek4_Oto\bin\Debug\9.haftaOrnek4_Oto.exe
+C:\Users\seyma\source\repos\9.haftaOrnek4_Oto\9.haftaOrnek4_Oto\bin\Debug\9.haftaOrnek4_Oto.pdb
+C:\Users\seyma\source\repos\9.haftaOrnek4_Oto\9.haftaOrnek4_Oto\obj\Debug\9.haftaOrnek4_Oto.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\9.haftaOrnek4_Oto\9.haftaOrnek4_Oto\obj\Debug\9.haftaOrnek4_Oto.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\9.haftaOrnek4_Oto\9.haftaOrnek4_Oto\obj\Debug\9.haftaOrnek4_Oto.exe
+C:\Users\seyma\source\repos\9.haftaOrnek4_Oto\9.haftaOrnek4_Oto\obj\Debug\9.haftaOrnek4_Oto.pdb

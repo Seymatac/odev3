@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.haftaOrnek_System.BitConverter", "8.haftaOrnek_System.BitConverter\8.haftaOrnek_System.BitConverter.csproj", "{206AD150-0FD9-47A5-9396-D4A4CADB7E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206AD150-0FD9-47A5-9396-D4A4CADB7E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206AD150-0FD9-47A5-9396-D4A4CADB7E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206AD150-0FD9-47A5-9396-D4A4CADB7E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206AD150-0FD9-47A5-9396-D4A4CADB7E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC7699C-9041-4E02-8327-00C5A5B0831F}
+	EndGlobalSection
+EndGlobal

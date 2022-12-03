@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\3.haftaOrnek4_do-whileDongu\3.haftaOrnek4_do-whileDongu\bin\Debug\3.haftaOrnek4_do-whileDongu.exe.config
+C:\Users\seyma\source\repos\3.haftaOrnek4_do-whileDongu\3.haftaOrnek4_do-whileDongu\bin\Debug\3.haftaOrnek4_do-whileDongu.exe
+C:\Users\seyma\source\repos\3.haftaOrnek4_do-whileDongu\3.haftaOrnek4_do-whileDongu\bin\Debug\3.haftaOrnek4_do-whileDongu.pdb
+C:\Users\seyma\source\repos\3.haftaOrnek4_do-whileDongu\3.haftaOrnek4_do-whileDongu\obj\Debug\3.haftaOrnek4_do-whileDongu.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\3.haftaOrnek4_do-whileDongu\3.haftaOrnek4_do-whileDongu\obj\Debug\3.haftaOrnek4_do-whileDongu.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\3.haftaOrnek4_do-whileDongu\3.haftaOrnek4_do-whileDongu\obj\Debug\3.haftaOrnek4_do-whileDongu.exe
+C:\Users\seyma\source\repos\3.haftaOrnek4_do-whileDongu\3.haftaOrnek4_do-whileDongu\obj\Debug\3.haftaOrnek4_do-whileDongu.pdb

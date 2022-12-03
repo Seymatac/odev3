@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.haftaOrnek6_Enumaration", "6.haftaOrnek6_Enumaration\6.haftaOrnek6_Enumaration.csproj", "{692FC5D4-481A-433F-9F66-B47E7CE3825E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692FC5D4-481A-433F-9F66-B47E7CE3825E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692FC5D4-481A-433F-9F66-B47E7CE3825E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692FC5D4-481A-433F-9F66-B47E7CE3825E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692FC5D4-481A-433F-9F66-B47E7CE3825E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2BDC25-5312-4E76-AA58-BB2C7023BB77}
+	EndGlobalSection
+EndGlobal

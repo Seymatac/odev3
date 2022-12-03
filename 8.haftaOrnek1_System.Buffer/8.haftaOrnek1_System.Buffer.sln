@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.haftaOrnek1_System.Buffer", "8.haftaOrnek1_System.Buffer\8.haftaOrnek1_System.Buffer.csproj", "{8EE37382-72AF-4606-AE79-73D51A20E55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE37382-72AF-4606-AE79-73D51A20E55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE37382-72AF-4606-AE79-73D51A20E55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE37382-72AF-4606-AE79-73D51A20E55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE37382-72AF-4606-AE79-73D51A20E55E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B73E2E-4DDE-40A8-8761-8731448CFBE3}
+	EndGlobalSection
+EndGlobal

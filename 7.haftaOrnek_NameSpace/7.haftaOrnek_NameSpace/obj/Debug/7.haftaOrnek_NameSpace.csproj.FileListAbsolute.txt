@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\7.haftaOrnek_NameSpace\7.haftaOrnek_NameSpace\bin\Debug\7.haftaOrnek_NameSpace.exe.config
+C:\Users\seyma\source\repos\7.haftaOrnek_NameSpace\7.haftaOrnek_NameSpace\bin\Debug\7.haftaOrnek_NameSpace.exe
+C:\Users\seyma\source\repos\7.haftaOrnek_NameSpace\7.haftaOrnek_NameSpace\bin\Debug\7.haftaOrnek_NameSpace.pdb
+C:\Users\seyma\source\repos\7.haftaOrnek_NameSpace\7.haftaOrnek_NameSpace\obj\Debug\7.haftaOrnek_NameSpace.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\7.haftaOrnek_NameSpace\7.haftaOrnek_NameSpace\obj\Debug\7.haftaOrnek_NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\7.haftaOrnek_NameSpace\7.haftaOrnek_NameSpace\obj\Debug\7.haftaOrnek_NameSpace.exe
+C:\Users\seyma\source\repos\7.haftaOrnek_NameSpace\7.haftaOrnek_NameSpace\obj\Debug\7.haftaOrnek_NameSpace.pdb

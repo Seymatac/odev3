@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\OrnekUyglama1\OrnekUyglama1\bin\Debug\OrnekUyglama1.exe.config
+C:\Users\seyma\source\repos\OrnekUyglama1\OrnekUyglama1\bin\Debug\OrnekUyglama1.exe
+C:\Users\seyma\source\repos\OrnekUyglama1\OrnekUyglama1\bin\Debug\OrnekUyglama1.pdb
+C:\Users\seyma\source\repos\OrnekUyglama1\OrnekUyglama1\obj\Debug\OrnekUyglama1.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\OrnekUyglama1\OrnekUyglama1\obj\Debug\OrnekUyglama1.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\OrnekUyglama1\OrnekUyglama1\obj\Debug\OrnekUyglama1.exe
+C:\Users\seyma\source\repos\OrnekUyglama1\OrnekUyglama1\obj\Debug\OrnekUyglama1.pdb

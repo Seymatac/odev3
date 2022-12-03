@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\obj\Debug\4.haftaOrnek11_MetodlarınAsırıYuklenmesı.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\obj\Debug\4.haftaOrnek11_MetodlarınAsırıYuklenmesı.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\bin\Debug\4.haftaOrnek11_MetodlarınAsırıYuklenmesı.exe.config
+C:\Users\seyma\source\repos\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\bin\Debug\4.haftaOrnek11_MetodlarınAsırıYuklenmesı.exe
+C:\Users\seyma\source\repos\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\bin\Debug\4.haftaOrnek11_MetodlarınAsırıYuklenmesı.pdb
+C:\Users\seyma\source\repos\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\obj\Debug\4.haftaOrnek11_MetodlarınAsırıYuklenmesı.exe
+C:\Users\seyma\source\repos\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\4.haftaOrnek11_MetodlarınAsırıYuklenmesı\obj\Debug\4.haftaOrnek11_MetodlarınAsırıYuklenmesı.pdb

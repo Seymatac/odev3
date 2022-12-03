@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\8.haftaOrnek_System.BitConverter\8.haftaOrnek_System.BitConverter\obj\Debug\8.haftaOrnek_System.BitConverter.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\8.haftaOrnek_System.BitConverter\8.haftaOrnek_System.BitConverter\obj\Debug\8.haftaOrnek_System.BitConverter.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\8.haftaOrnek_System.BitConverter\8.haftaOrnek_System.BitConverter\bin\Debug\8.haftaOrnek_System.BitConverter.exe.config
+C:\Users\seyma\source\repos\8.haftaOrnek_System.BitConverter\8.haftaOrnek_System.BitConverter\bin\Debug\8.haftaOrnek_System.BitConverter.exe
+C:\Users\seyma\source\repos\8.haftaOrnek_System.BitConverter\8.haftaOrnek_System.BitConverter\bin\Debug\8.haftaOrnek_System.BitConverter.pdb
+C:\Users\seyma\source\repos\8.haftaOrnek_System.BitConverter\8.haftaOrnek_System.BitConverter\obj\Debug\8.haftaOrnek_System.BitConverter.exe
+C:\Users\seyma\source\repos\8.haftaOrnek_System.BitConverter\8.haftaOrnek_System.BitConverter\obj\Debug\8.haftaOrnek_System.BitConverter.pdb

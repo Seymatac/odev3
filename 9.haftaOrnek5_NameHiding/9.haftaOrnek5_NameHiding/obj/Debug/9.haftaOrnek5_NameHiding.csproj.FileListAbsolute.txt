@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\9.haftaOrnek5_NameHiding\9.haftaOrnek5_NameHiding\bin\Debug\9.haftaOrnek5_NameHiding.exe.config
+C:\Users\seyma\source\repos\9.haftaOrnek5_NameHiding\9.haftaOrnek5_NameHiding\bin\Debug\9.haftaOrnek5_NameHiding.exe
+C:\Users\seyma\source\repos\9.haftaOrnek5_NameHiding\9.haftaOrnek5_NameHiding\bin\Debug\9.haftaOrnek5_NameHiding.pdb
+C:\Users\seyma\source\repos\9.haftaOrnek5_NameHiding\9.haftaOrnek5_NameHiding\obj\Debug\9.haftaOrnek5_NameHiding.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\9.haftaOrnek5_NameHiding\9.haftaOrnek5_NameHiding\obj\Debug\9.haftaOrnek5_NameHiding.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\9.haftaOrnek5_NameHiding\9.haftaOrnek5_NameHiding\obj\Debug\9.haftaOrnek5_NameHiding.exe
+C:\Users\seyma\source\repos\9.haftaOrnek5_NameHiding\9.haftaOrnek5_NameHiding\obj\Debug\9.haftaOrnek5_NameHiding.pdb

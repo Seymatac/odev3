@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\4.haftaOrnek13_ParametreMetot\4.haftaOrnek13_ParametreMetot\bin\Debug\4.haftaOrnek13_ParametreMetot.exe.config
+C:\Users\seyma\source\repos\4.haftaOrnek13_ParametreMetot\4.haftaOrnek13_ParametreMetot\bin\Debug\4.haftaOrnek13_ParametreMetot.exe
+C:\Users\seyma\source\repos\4.haftaOrnek13_ParametreMetot\4.haftaOrnek13_ParametreMetot\bin\Debug\4.haftaOrnek13_ParametreMetot.pdb
+C:\Users\seyma\source\repos\4.haftaOrnek13_ParametreMetot\4.haftaOrnek13_ParametreMetot\obj\Debug\4.haftaOrnek13_ParametreMetot.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\4.haftaOrnek13_ParametreMetot\4.haftaOrnek13_ParametreMetot\obj\Debug\4.haftaOrnek13_ParametreMetot.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\4.haftaOrnek13_ParametreMetot\4.haftaOrnek13_ParametreMetot\obj\Debug\4.haftaOrnek13_ParametreMetot.exe
+C:\Users\seyma\source\repos\4.haftaOrnek13_ParametreMetot\4.haftaOrnek13_ParametreMetot\obj\Debug\4.haftaOrnek13_ParametreMetot.pdb

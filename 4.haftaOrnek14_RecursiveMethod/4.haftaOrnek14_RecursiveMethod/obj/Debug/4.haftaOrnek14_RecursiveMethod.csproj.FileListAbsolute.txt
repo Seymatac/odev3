@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\4.haftaOrnek14_RecursiveMethod\4.haftaOrnek14_RecursiveMethod\obj\Debug\4.haftaOrnek14_RecursiveMethod.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\4.haftaOrnek14_RecursiveMethod\4.haftaOrnek14_RecursiveMethod\obj\Debug\4.haftaOrnek14_RecursiveMethod.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\4.haftaOrnek14_RecursiveMethod\4.haftaOrnek14_RecursiveMethod\bin\Debug\4.haftaOrnek14_RecursiveMethod.exe.config
+C:\Users\seyma\source\repos\4.haftaOrnek14_RecursiveMethod\4.haftaOrnek14_RecursiveMethod\bin\Debug\4.haftaOrnek14_RecursiveMethod.exe
+C:\Users\seyma\source\repos\4.haftaOrnek14_RecursiveMethod\4.haftaOrnek14_RecursiveMethod\bin\Debug\4.haftaOrnek14_RecursiveMethod.pdb
+C:\Users\seyma\source\repos\4.haftaOrnek14_RecursiveMethod\4.haftaOrnek14_RecursiveMethod\obj\Debug\4.haftaOrnek14_RecursiveMethod.exe
+C:\Users\seyma\source\repos\4.haftaOrnek14_RecursiveMethod\4.haftaOrnek14_RecursiveMethod\obj\Debug\4.haftaOrnek14_RecursiveMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\seyma\source\repos\6.haftaOrnek6_Enumaration\6.haftaOrnek6_Enumaration\obj\Debug\6.haftaOrnek6_Enumaration.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\6.haftaOrnek6_Enumaration\6.haftaOrnek6_Enumaration\obj\Debug\6.haftaOrnek6_Enumaration.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\6.haftaOrnek6_Enumaration\6.haftaOrnek6_Enumaration\bin\Debug\6.haftaOrnek6_Enumaration.exe.config
+C:\Users\seyma\source\repos\6.haftaOrnek6_Enumaration\6.haftaOrnek6_Enumaration\bin\Debug\6.haftaOrnek6_Enumaration.exe
+C:\Users\seyma\source\repos\6.haftaOrnek6_Enumaration\6.haftaOrnek6_Enumaration\bin\Debug\6.haftaOrnek6_Enumaration.pdb
+C:\Users\seyma\source\repos\6.haftaOrnek6_Enumaration\6.haftaOrnek6_Enumaration\obj\Debug\6.haftaOrnek6_Enumaration.exe
+C:\Users\seyma\source\repos\6.haftaOrnek6_Enumaration\6.haftaOrnek6_Enumaration\obj\Debug\6.haftaOrnek6_Enumaration.pdb
